@@ -1,0 +1,1 @@
+curl -o palinstall.sh https://blog.iloli.love/install.sh && chmod +x palinstall.sh && bash palinstall.sh
